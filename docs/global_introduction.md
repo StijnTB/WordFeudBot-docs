@@ -14,8 +14,6 @@ We are 2 Dutch high school students from VWO 6 and this bot is our PWS: our 'Pro
 
 On this site, we hope to answer most of your questions regarding our project: A bot for the online game WordFeud. We have tried our best to seperate this documentation into multiple categories to reduce the amount of unnecessary information you are required to read, depending on specific interests. We have set up 2 paths, but feel free to scan through and look at the things you like. The first path, *Main Project*, focusses on the PWS side of the project. This contains background information, research and conclusions. If you are interested in the entire process, the *Main Project* track is for you. On the other hand, if you found us through the Github page, the *Additional Project Info* path might be more interesting. This track focusses on code and gives a deep dive if you want to fully understand how the bot makes its decissions.
 
-If anything about the project is unclear, whether that is the website, code itself or something else, please contact us and we will, in due time, attempt to add to and perfect this website.
-
-Have fun reading!
+We hope you will have a great time reading and hope to inspire you to start a project yourself.
 
 Stijn & Joram
