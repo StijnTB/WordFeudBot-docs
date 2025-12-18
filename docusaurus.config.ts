@@ -72,12 +72,12 @@ const config: Config = {
           label: 'Get Started',
         },
         {
-          href: '/docs/main_project_info/introduction_page', 
+          href: '/docs/main_project/introduction_page', 
           label: 'Main Project',
           position: 'left'
         },
         {
-          href: '/docs/additional_project_info', 
+          href: '/docs/additional_information/introduction_page', 
           label: 'Codebase', 
           position: 'left'
         },
