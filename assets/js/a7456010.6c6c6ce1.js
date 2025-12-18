@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkword_feud_bot_docs=globalThis.webpackChunkword_feud_bot_docs||[]).push([[1235],{8552:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

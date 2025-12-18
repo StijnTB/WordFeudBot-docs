@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkword_feud_bot_docs=globalThis.webpackChunkword_feud_bot_docs||[]).push([[9647],{7121:(e,s,r)=>{r.r(s),r.d(s,{default:()=>l});r(6540);var o=r(4164),d=r(7559),u=r(5500),a=r(2831),c=r(1656),t=r(4848);function l(e){return(0,t.jsx)(u.e3,{className:(0,o.A)(d.G.wrapper.docsPages),children:(0,t.jsx)(c.A,{children:(0,a.v)(e.route.routes)})})}}}]);

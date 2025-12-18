@@ -1,8 +1,0 @@
-{
-  "label": "Code Summary",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "A summary of the content of all files to understand the structure of the code better. Use this if you want to do a deep dive in the code."
-  }
-}
